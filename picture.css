@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('./images/Jhonny-Watson-Redraw.png') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: saturation;
+}
